@@ -1,7 +1,7 @@
 <h1>Hi 👋, I am Cold-Atom </h1>
 <p>I do full-stack dvelopment and game dev is my hobby. Currently working on UchatDorm.</p>
 
-<h2 align="left">🚀 Languages and Tools I Use</h2>
+<h2>I Use</h2>
 
 ###
 
