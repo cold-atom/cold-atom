@@ -1,5 +1,5 @@
-<h1>Hi 👋, I am Cold-Atom </h1>
-<p>I do full-stack dvelopment and game dev is my hobby. Currently working on UchatDorm.</p>
+<h1>Hi 👋, I am cold atom(Minghang Chamling) </h1>
+<p>I do full-stack dvelopment, game dev is my hobby. Currently working on [UchatDorm](www.uchatdorm.com).</p>
 
 <h2>I Use</h2>
 
