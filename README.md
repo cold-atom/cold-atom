@@ -2,7 +2,7 @@
 <p>I do full-stack dvelopment, game dev is my hobby.</p>
 Currently working on <a target="_blank" href="https://www.uchatdorm.com/">UchatDorm</a>
 
-<h2>I Use</h2>
+<h2>I use</h2>
 
 ###
 
