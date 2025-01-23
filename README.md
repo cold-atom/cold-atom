@@ -1,6 +1,6 @@
 <h1>Hi 👋, I am cold atom(Minghang Chamling) </h1>
 <p>I do full-stack dvelopment, game dev is my hobby.</p>
-Currently working on <a href="www.uchatdorm.com">UchatDorm</a>
+Currently working on <a target="_blank" href="https://www.uchatdorm.com/"><h3>UchatDorm</h3></a>
 
 <h2>I Use</h2>
 
