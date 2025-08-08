@@ -1,6 +1,9 @@
-<h2>Hi, I am cold atom aka Minghang Chamling.</h2>
+<h2>Hi, I am cold atom also go by my name Minghang Chamling.</h2>
 <p>I do full-stack development. And my hobby is making games, I use godot for it and I also use it to makes apps.</p> 
+[![Email](https://img.shields.io/badge/Email-youremail%40example.com-blue?style=flat-square)](mailto:minghang@uchatdorm.com)
+
 <h4> Currently working on <a target="_blank" href="https://www.uchatdorm.com/">UchatDorm</a></h5>
+
 
 <h2>I use</h2>
 
