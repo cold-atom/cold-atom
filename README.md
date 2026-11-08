@@ -4,11 +4,6 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-hud?username=cold-atom&mode=light" />
-  <img src="https://www.gitskins.com/api/section/pixel-hud?username=cold-atom&mode=dark" width="100%" alt="Commits, pull requests, stars and best streak" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-header?username=cold-atom&title=%3E+Projects&mode=light" />
   <img src="https://www.gitskins.com/api/section/pixel-header?username=cold-atom&title=%3E+Projects&mode=dark" width="100%" alt="Projects" />
 </picture>
