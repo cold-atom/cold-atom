@@ -1,9 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-room?username=cold-atom&mode=light" />
-  <img src="https://www.gitskins.com/api/section/pixel-room?username=cold-atom&mode=dark" width="100%" alt="Minghang Chamling's pixel studio" />
+  <img src="https://www.gitskins.com/api/section/pixel-room?username=cold-atom&mode=dark" width="100%" alt="Minghang" />
 </picture>
-
-<a href="https://github.com/cold-atom">GitHub</a> · <a href="https://www.uchatdorm.com/">Website</a>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-hud?username=cold-atom&mode=light" />
