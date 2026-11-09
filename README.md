@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-room?username=cold-atom&mode=light" />
-  <img src="https://www.gitskins.com/api/section/pixel-room?username=cold-atom&mode=dark" width="100%" alt="Minghang Chamling's pixel studio" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/scene-sky?username=cold-atom&mode=light" />
+  <img src="https://www.gitskins.com/api/section/scene-sky?username=cold-atom&mode=dark" width="100%" alt="The view from Hangzhou, China right now" />
 </picture>
 
 <picture>
